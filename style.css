@@ -52,3 +52,8 @@ h2{
 image.png{
   width: 50%;
 }
+
+h1{
+  text-align: center;
+  font-size: 35px;
+}
