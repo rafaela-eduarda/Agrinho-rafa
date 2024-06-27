@@ -59,4 +59,9 @@ h1{
 }
 
 body{
-  background-color: rgb(238, 97, 97);
+  background-color: rgb(241, 118, 118);
+}
+
+img{
+  width: 50px;
+}
